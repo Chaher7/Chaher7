@@ -10,9 +10,9 @@ Pentesting & CTFs  <br/><br/>
 
 ⚡ Fun facts:  <br/>
 
-I learn best by building and testing things <br/>
-I enjoy turning my home lab into a small enterprise network <br/>
-Always curious about how things work under the hood <br/>
+- I learn best by building and testing things <br/>
+- I enjoy turning my home lab into a small enterprise network <br/>
+- Always curious about how things work under the hood <br/>
 
 <!--
 📚 Currently learning:
