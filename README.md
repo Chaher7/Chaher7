@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey, I'm Chaher 👋
+🔐 Cybersecurity Engineer
+Currently building labs, testing things, and learning how to secure them.
+🧪 Working on:
+
+CCNA & networking labs
+Fortinet security labs
+Microsoft security labs
+Pentesting & CTFs
+
+⚡ Fun facts:
+
+I learn best by building and testing things
+I enjoy turning my home lab into a small enterprise network
+Always curious about how things work under the hood
 
 <!--
-**Chaher7/Chaher7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Currently learning:
+Networking • Cloud Security • Pentesting
 -->
